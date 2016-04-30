@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41904ucmf_3_0009.png"; bbox 0 0 2316 3328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 19 534 811 891">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 19 534 811 891">
+     <span class='ocr_line' id='line_1_1' title="bbox 19 534 811 891; baseline 0.005 -79"><span class='ocrx_word' id='word_1_1' title='bbox 19 534 288 891; x_wconf 82' lang='lat' dir='ltr'><strong>eph</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 337 542 811 820; x_wconf 77' lang='lat' dir='ltr'>Anton</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 9 1435 657 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 9 1435 657 2166">
+     <span class='ocr_line' id='line_1_2' title="bbox 9 1435 535 1716; baseline 0.015 -8"><span class='ocrx_word' id='word_1_3' title='bbox 9 1435 535 1716; x_wconf 79' lang='lat' dir='ltr'>ationes</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 46 1894 657 2166; baseline 0.01 -5.875"><span class='ocrx_word' id='word_1_4' title='bbox 46 1894 657 2166; x_wconf 58' lang='lat' dir='ltr'><strong>Vetus..</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1162 3328">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1162 3328">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1162 3328; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1162 3328; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 61 2790 328 3066">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 61 2790 328 3066">
+     <span class='ocr_line' id='line_1_5' title="bbox 61 2790 328 3066; baseline 0.015 -4"><span class='ocrx_word' id='word_1_6' title='bbox 61 2790 328 3066; x_wconf 79' lang='lat'><strong>867</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
